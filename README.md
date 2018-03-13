@@ -1,6 +1,4 @@
-# ChatBot
-
-### This is chatting API to chat with your feeling and another think likes:
+### Search From Wikipedia, StackOverFlow and GoogleMaps
 
 1.ask any questions which is in wikipedia.
   Ex - what is python? or tell me about python?
